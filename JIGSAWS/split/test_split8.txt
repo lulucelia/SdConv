@@ -1,0 +1,6 @@
+Surgeon_Name Skill_Level
+Suturing_B001.avi.mat N
+Suturing_B002.avi.mat N
+Suturing_B003.avi.mat N
+Suturing_B004.avi.mat N
+Suturing_B005.avi.mat N
